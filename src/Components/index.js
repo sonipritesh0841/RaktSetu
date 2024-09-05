@@ -1,0 +1,20 @@
+export { default as BloodStockLevels } from "./BloodInventoryManagement/BloodStockLevels";
+
+export { default as AddNewStock } from "./BloodInventoryManagement/AddNewStock";
+export { default as AlertSystem } from "./BloodInventoryManagement/AlertSystem";
+export { default as BloodRequests } from "./RequestManagement/BloodRequests";
+export { default as RequestFulfillment } from "./RequestManagement/RequestFulfillment";
+export { default as RequestHistory } from "./RequestManagement/RequestHistory";
+export { default as AppointmentCalendar } from "./DonorAppointmentScheduling/AppointmentCalendar";
+export { default as ManageAppointments } from "./DonorAppointmentScheduling/ManageAppointments";
+export { default as SystemAlerts } from "./NotificationsandAlerts/SystemAlerts";
+export { default as CommunicationHub } from "./NotificationsandAlerts/CommunicationHub";
+export { default as UserRoles } from "./UserManagement/UserRoles";
+export { default as UserProfile } from "./UserManagement/UserProfile";
+export { default as DonationReports } from "./ReportingandAnalytics/DonationReports";
+export { default as InventoryReports } from "./ReportingandAnalytics/InventoryReports";
+export { default as RequestReports } from "./ReportingandAnalytics/RequestReports";
+export { default as SystemConfiguration } from "./Settings/SystemConfiguration";
+export { default as Customization } from "./Settings/Customization";
+export { default as FAQ } from "./SupportHelp/FAQ";
+export { default as ContactSupport } from "./SupportHelp/ContactSupport";
